@@ -3,7 +3,7 @@ import { estrazione } from './apiHackerNews';
 import dateFormat from 'dateformat';
 
 export const Story = ({typeOfStory}) => {
-    const [story, setStory] = useState({});
+    const [story, setStory] = useState([]);
 
     const theDate = (t) => dateFormat(t*=1000, "dddd, mmmm dS, yyyy, h:MM:ss TT");
 

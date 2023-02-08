@@ -4,7 +4,7 @@ import { Story } from "./API/story";
 import LoadMore from "./loadMore";
 
 export const Home = () => {
-    const [ids, setIds] = useState([]);
+    const [ids, setIds] = useState({});
     const [number, setNumber] = useState(10);
 
     function mostraAltro() {setNumber(number + 10);}
