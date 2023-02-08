@@ -15,6 +15,6 @@ Trovi il progetto [qui](https://hackernewsapiesercizio.netlify.app/)
 * [Tailwind](https://tailwindcss.com/)
 * [Axios](https://axios-http.com/docs/intro)
 ## Utilizzo
-Semplice sito che mostra notizie estratte da Hacker News API. Le notizie mostrate sono dieci con la possibilità, premendo il tasto "Load More", di caricarne altre. 
+Semplice sito che mostra notizie, con il titolo, il link e la data, estratte da Hacker News API. Le notizie mostrate sono dieci con la possibilità, premendo il tasto "Load More", di caricarne altre. 
 ## Autore
 * [Livio Dimola](https://github.com/liviodimola) - *novello Full Stack Developer*
