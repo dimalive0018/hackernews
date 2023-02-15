@@ -1,11 +1,11 @@
 # Hackernews API
 <br/>
 <p align="center">
-  <h3 align="center">HackernewsAPI</h3>
+  <h3 align="center">Hackernews</h3>
 
 </p>
 
-![Forks](https://img.shields.io/github/forks/liviodimola/hackernewsAPI?style=social) ![Stargazers](https://img.shields.io/github/stars/liviodimola/hackernewsAPI?style=social) 
+![Forks](https://img.shields.io/github/forks/liviodimola/hackernews?style=social) ![Stargazers](https://img.shields.io/github/stars/liviodimola/hackernews?style=social) 
 
 ![Screen Shot](https://i.ibb.co/DKsNNCK/hackernews-Immagine.png)
 Trovi il progetto [qui](https://hackernewsapiesercizio.netlify.app/)
